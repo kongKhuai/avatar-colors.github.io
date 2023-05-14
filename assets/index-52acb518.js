@@ -1,1 +1,0 @@
-import{d as s,b as o,j as t,z as a,A as c}from"./runtime-core.esm-bundler-b2c41dc4.js";const n={class:"h-full"},r=["src"],f=s({__name:"index",setup(l){const e=o("https://docs.soybean.pro/");return(_,d)=>(t(),a("div",n,[c("iframe",{class:"wh-full",src:e.value},null,8,r)]))}});export{f as default};
